@@ -12,7 +12,7 @@ setuptools.setup(
     description="bodytracking is a collection of functions powered by mediapipe and opencv-python.",
     long_description= long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/MOBSkuchen/tkt-Toolkit",
+    url="https://github.com/MOBSkuchen/bodytracking",
     packages=setuptools.find_packages(),
     include_package_data=True,
     zip_safe=False,
